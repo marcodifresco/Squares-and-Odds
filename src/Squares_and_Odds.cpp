@@ -19,7 +19,7 @@ int main() {
 
 		// Check if the rule apply
 		if ((difference - difference_previous) == 2){
-			std::cout << "Rule still apply between " << base-1 << "^2 and " << base << "^2." << std::endl;
+			std::cout << "The difference between " << base-1 << "^2 and " << base << "^2 is " << difference << ". Therefore the rule still apply." << std::endl;
 		} else {
 			std::cout << "Rule do NOT apply between " << base-1 << "^2 and " << base << "^2." << std::endl;
 			break;
