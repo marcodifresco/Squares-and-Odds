@@ -1,10 +1,10 @@
-//============================================================================
+//====================================================================================
 // Name        : Squares_and_Odds.cpp
 // Author      : Marco Di Fresco
 // Version     : 0.1
 // Copyright   : 2022 Marco Di Fresco
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+// Description : Check if the differences between squares is an increasing odd number.
+//====================================================================================
 
 #include <iostream>
 
